@@ -32,3 +32,7 @@
 **5_Model**
 
 - 3D models compatible with SolidWorks.
+
+**project002** - [submodel]
+
+- The original development version.
