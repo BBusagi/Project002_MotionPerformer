@@ -1,6 +1,6 @@
 ## **User: ZHOU LU (Riku)  <br> Project Name: MotionPerformer An Ungrounded Haptic Device for Enhancing Self-motion Perception in Virtual Space**
 
-**1_Repository**
+**1_SoftWare**
 
 - **Arduino Project Files**
   - Main file: `<1dof_demo_A>`
